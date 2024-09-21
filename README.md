@@ -32,9 +32,11 @@ while True:
     print("Server > ",s.recv(1024).decode())
 ```
 ## OUPUT:
-## CLIENT:![Screenshot 2024-09-21 103155](https://github.com/user-attachments/assets/573adde9-a437-4706-b20e-9af3568891b1)
+## CLIENT:
+![Screenshot 2024-09-21 103155](https://github.com/user-attachments/assets/573adde9-a437-4706-b20e-9af3568891b1)
 
-## SERVER: ![Screenshot 2024-09-21 103147](https://github.com/user-attachments/assets/3cfd812b-1851-4c32-98e8-bd74316a3d5a)
+## SERVER:
+![Screenshot 2024-09-21 103147](https://github.com/user-attachments/assets/3cfd812b-1851-4c32-98e8-bd74316a3d5a)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
